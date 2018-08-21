@@ -15,5 +15,4 @@ A challenge that users face is that, for a given y-axis value (e.g. 42,000), it 
 <img src="Fig2c.png" alt="Figure 1" width="500"/>
 <h4 style="text-align: center;" markdown="1">  Figure 2c from (Ferreira et al. 2014). Note that the colorbar legend at the bottom as well as the arrows are not required in the assignment descriptions below.</h4>
 
-
-**Hardest option:** Allow the user to interactively set a range of y values they are interested in, and recolor based on this (e.g. a y-axis band, see the paper for more details).
+This program allow the user to interactively set a range of y values they are interested in, and recolor based on this (e.g. a y-axis band, see the paper for more details).
